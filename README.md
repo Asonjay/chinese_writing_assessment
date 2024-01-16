@@ -2,9 +2,9 @@
 
 ## Authors: Zexin Xu, Zilu Jiang
 
-This repo includes codes utilizing LLMs (GPT, iFLYTEK and Baidu Cloud) to assess students writing assignment. For privacy concerns, all students data are not included as well as keys for LLMs API calling. If you have questions of setting up an account to those platforms, feel free to send me an email. (amoyxu44@gmail.com)
+This repo includes codes utilizing LLMs (GPT, iFLYTEK and Baidu Cloud) to assess students writing assignment. For privacy concerns, all students data are not included as well as keys for LLMs API calling. If you have questions of setting up an account to those platforms, feel free to send me an email. (zexin.j.xu@gmail.com)
 
-For more details of the study, please refer to the paper: [PlaceHolder]()
+For more details of the study, please refer to the paper: [Exploring the Role of Artificial Intelligence in Facilitating Assessment of Writing Performance in Second Language Learning](https://www.mdpi.com/2226-471X/8/4/247)
 
 ## File Explanation
 
